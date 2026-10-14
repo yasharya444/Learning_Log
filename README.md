@@ -1,8 +1,8 @@
-#TOOLS STORE
+#TOOLS STORE:-
 
 Tool store is basically a file containig all tools &  its functions ,errors used during 4years of my Btech Journey
 
-##1.FFMPEG
+##1.FFMPEG- 16 oct , 2026.
 
 -FFMPEG is a universal media converter tool which to convert one media format to another like converting .mp4 to .jpeg
 -first command = ffmpeg -i <inputfile> <outputfile>
@@ -18,7 +18,7 @@ ERROR 1 - ffmpeg -i Nature.mp4 thumbnail.jkdd --this code breaks because there i
 
 ERROR 2- ffmpeg -i Nature.mp4 -vf "fps=10,sale:320:-1" --here error comes as ffmpeg could not tell which filter it belongs to, as there was typo in scale option.
 
-##2. QRENCODE.
+##2. QRENCODE- 16 oct , 2026.
 
 - QRENCODE  is basically a tool for creating qr code for given input and save it as png or eps image .
 - for detailed documentation use "man qrencode" command in terminal.
